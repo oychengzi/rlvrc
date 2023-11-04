@@ -1,0 +1,19 @@
+{
+  "name": "com.rlvrc.cn",
+  "displayName": "\u6d3b\u52a8\u65e5\u5386",
+  "version": "0.8.31",
+  "description": "Describe this Package",
+  "gitDependencies": {},
+  "vpmDependencies": {
+    "com.vrchat.worlds": "3.4.1"
+  },
+  "author": {
+    "name": "91VRC",
+    "email": "oychengjiu@163.com",
+    "url": "rlvrc.cn"
+  },
+  "legacyFolders": {},
+  "legacyFiles": {},
+  "localPath": "C:\\Users\\19693\\Downloads\\template-package-main\\template-package-main\\Packages\\com.rlvrc.cn",
+  "type": "tests"
+}
